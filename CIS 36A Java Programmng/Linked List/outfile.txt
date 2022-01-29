@@ -1,0 +1,611 @@
+For field station 7
+Node 1	Response Time 28
+Node 4	Response Time 31
+Node 5	Response Time 15
+Node 6	Response Time 35
+Node 7	Response Time 0
+Node 16	Response Time 25
+Node 17	Response Time 20
+Node 32	Response Time 30
+
+For field station 14
+Node 0	Response Time 60
+Node 2	Response Time 30
+Node 3	Response Time 15
+Node 8	Response Time 30
+Node 9	Response Time 46
+Node 10	Response Time 44
+Node 12	Response Time 22
+Node 13	Response Time 64
+Node 14	Response Time 0
+Node 15	Response Time 36
+Node 18	Response Time 36
+Node 19	Response Time 23
+Node 20	Response Time 35
+Node 21	Response Time 16
+
+For field station 25
+Node 24	Response Time 25
+Node 25	Response Time 0
+Node 26	Response Time 30
+Node 29	Response Time 40
+Node 30	Response Time 30
+Node 31	Response Time 21
+Node 37	Response Time 50
+Node 38	Response Time 61
+
+For field station 28
+Node 22	Response Time 30
+Node 23	Response Time 18
+Node 27	Response Time 43
+Node 28	Response Time 0
+Node 34	Response Time 30
+Node 35	Response Time 25
+Node 42	Response Time 50
+Node 44	Response Time 74
+
+For field station 40
+Node 11	Response Time 41
+Node 33	Response Time 58
+Node 36	Response Time 30
+Node 39	Response Time 40
+Node 40	Response Time 0
+Node 41	Response Time 27
+Node 43	Response Time 41
+Node 45	Response Time 20
+Node 46	Response Time 28
+Node 47	Response Time 56
+Node 48	Response Time 43
+Node 49	Response Time 63
+
+Node	0
+	Distance from 7 = 60
+	14 --> 3 --> 2 --> 0
+	Distance from 14 = 60
+	14 --> 3 --> 2 --> 0
+	Distance from 25 = 108
+	25 --> 19 --> 14 --> 3 --> 2 --> 0
+	Distance from 28 = 134
+	28 --> 23 --> 32 --> 8 --> 9 --> 0
+	Distance from 40 = 194
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 9 --> 0
+Node	1
+	Distance from 7 = 28
+	7 --> 5 --> 1
+	Distance from 14 = 93
+	14 --> 3 --> 2 --> 0 --> 1
+	Distance from 25 = 141
+	25 --> 19 --> 14 --> 3 --> 2 --> 0 --> 1
+	Distance from 28 = 86
+	28 --> 17 --> 7 --> 5 --> 1
+	Distance from 40 = 146
+	40 --> 35 --> 28 --> 17 --> 7 --> 5 --> 1
+Node	2
+	Distance from 7 = 30
+	14 --> 3 --> 2
+	Distance from 14 = 30
+	14 --> 3 --> 2
+	Distance from 25 = 78
+	25 --> 19 --> 14 --> 3 --> 2
+	Distance from 28 = 123
+	28 --> 23 --> 32 --> 8 --> 3 --> 2
+	Distance from 40 = 183
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 2
+Node	3
+	Distance from 7 = 15
+	14 --> 3
+	Distance from 14 = 15
+	14 --> 3
+	Distance from 25 = 63
+	25 --> 19 --> 14 --> 3
+	Distance from 28 = 108
+	28 --> 23 --> 32 --> 8 --> 3
+	Distance from 40 = 168
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3
+Node	4
+	Distance from 7 = 31
+	7 --> 4
+	Distance from 14 = 96
+	14 --> 3 --> 8 --> 7 --> 4
+	Distance from 25 = 144
+	25 --> 19 --> 21 --> 32 --> 7 --> 4
+	Distance from 28 = 89
+	28 --> 17 --> 7 --> 4
+	Distance from 40 = 149
+	40 --> 35 --> 28 --> 17 --> 7 --> 4
+Node	5
+	Distance from 7 = 15
+	7 --> 5
+	Distance from 14 = 60
+	14 --> 3 --> 8 --> 5
+	Distance from 25 = 108
+	25 --> 19 --> 14 --> 3 --> 8 --> 5
+	Distance from 28 = 73
+	28 --> 17 --> 7 --> 5
+	Distance from 40 = 133
+	40 --> 35 --> 28 --> 17 --> 7 --> 5
+Node	6
+	Distance from 7 = 35
+	7 --> 5 --> 6
+	Distance from 14 = 55
+	14 --> 3 --> 8 --> 6
+	Distance from 25 = 103
+	25 --> 19 --> 14 --> 3 --> 8 --> 6
+	Distance from 28 = 93
+	28 --> 17 --> 7 --> 5 --> 6
+	Distance from 40 = 153
+	40 --> 35 --> 28 --> 17 --> 7 --> 5 --> 6
+Node	7
+	Distance from 7 = 0
+	7
+	Distance from 14 = 65
+	14 --> 3 --> 8 --> 7
+	Distance from 25 = 111
+	25 --> 19 --> 21 --> 32 --> 7
+	Distance from 28 = 58
+	28 --> 17 --> 7
+	Distance from 40 = 118
+	40 --> 35 --> 28 --> 17 --> 7
+Node	8
+	Distance from 7 = 30
+	14 --> 3 --> 8
+	Distance from 14 = 30
+	14 --> 3 --> 8
+	Distance from 25 = 78
+	25 --> 19 --> 14 --> 3 --> 8
+	Distance from 28 = 80
+	28 --> 23 --> 32 --> 8
+	Distance from 40 = 140
+	40 --> 35 --> 28 --> 23 --> 32 --> 8
+Node	9
+	Distance from 7 = 46
+	14 --> 3 --> 9
+	Distance from 14 = 46
+	14 --> 3 --> 9
+	Distance from 25 = 94
+	25 --> 19 --> 14 --> 3 --> 9
+	Distance from 28 = 109
+	28 --> 23 --> 32 --> 8 --> 9
+	Distance from 40 = 169
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 9
+Node	10
+	Distance from 7 = 44
+	14 --> 12 --> 10
+	Distance from 14 = 44
+	14 --> 12 --> 10
+	Distance from 25 = 92
+	25 --> 19 --> 14 --> 12 --> 10
+	Distance from 28 = 153
+	28 --> 23 --> 32 --> 8 --> 3 --> 12 --> 10
+	Distance from 40 = 213
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 12 --> 10
+Node	11
+	Distance from 7 = 41
+	40 --> 45 --> 11
+	Distance from 14 = 177
+	14 --> 19 --> 24 --> 29 --> 35 --> 41 --> 45 --> 11
+	Distance from 25 = 134
+	25 --> 30 --> 36 --> 40 --> 45 --> 11
+	Distance from 28 = 102
+	28 --> 34 --> 43 --> 11
+	Distance from 40 = 41
+	40 --> 45 --> 11
+Node	12
+	Distance from 7 = 22
+	14 --> 12
+	Distance from 14 = 22
+	14 --> 12
+	Distance from 25 = 70
+	25 --> 19 --> 14 --> 12
+	Distance from 28 = 131
+	28 --> 23 --> 32 --> 8 --> 3 --> 12
+	Distance from 40 = 191
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 12
+Node	13
+	Distance from 7 = 64
+	14 --> 15 --> 13
+	Distance from 14 = 64
+	14 --> 15 --> 13
+	Distance from 25 = 95
+	25 --> 19 --> 20 --> 13
+	Distance from 28 = 181
+	28 --> 23 --> 32 --> 8 --> 3 --> 12 --> 10 --> 13
+	Distance from 40 = 241
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 12 --> 10 --> 13
+Node	14
+	Distance from 7 = 0
+	14
+	Distance from 14 = 0
+	14
+	Distance from 25 = 48
+	25 --> 19 --> 14
+	Distance from 28 = 123
+	28 --> 23 --> 32 --> 8 --> 3 --> 14
+	Distance from 40 = 183
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 14
+Node	15
+	Distance from 7 = 36
+	14 --> 15
+	Distance from 14 = 36
+	14 --> 15
+	Distance from 25 = 80
+	25 --> 19 --> 20 --> 15
+	Distance from 28 = 159
+	28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 15
+	Distance from 40 = 219
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 15
+Node	16
+	Distance from 7 = 25
+	7 --> 16
+	Distance from 14 = 90
+	14 --> 3 --> 8 --> 7 --> 16
+	Distance from 25 = 138
+	25 --> 19 --> 21 --> 32 --> 7 --> 16
+	Distance from 28 = 65
+	28 --> 22 --> 16
+	Distance from 40 = 125
+	40 --> 35 --> 28 --> 22 --> 16
+Node	17
+	Distance from 7 = 20
+	7 --> 17
+	Distance from 14 = 57
+	14 --> 21 --> 32 --> 17
+	Distance from 25 = 96
+	25 --> 19 --> 21 --> 32 --> 17
+	Distance from 28 = 38
+	28 --> 17
+	Distance from 40 = 98
+	40 --> 35 --> 28 --> 17
+Node	18
+	Distance from 7 = 36
+	14 --> 21 --> 18
+	Distance from 14 = 36
+	14 --> 21 --> 18
+	Distance from 25 = 55
+	25 --> 24 --> 18
+	Distance from 28 = 48
+	28 --> 23 --> 18
+	Distance from 40 = 105
+	40 --> 35 --> 29 --> 18
+Node	19
+	Distance from 7 = 23
+	14 --> 19
+	Distance from 14 = 23
+	14 --> 19
+	Distance from 25 = 25
+	25 --> 19
+	Distance from 28 = 146
+	28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 19
+	Distance from 40 = 206
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 19
+Node	20
+	Distance from 7 = 35
+	14 --> 20
+	Distance from 14 = 35
+	14 --> 20
+	Distance from 25 = 55
+	25 --> 19 --> 20
+	Distance from 28 = 158
+	28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 20
+	Distance from 40 = 218
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 20
+Node	21
+	Distance from 7 = 16
+	14 --> 21
+	Distance from 14 = 16
+	14 --> 21
+	Distance from 25 = 55
+	25 --> 19 --> 21
+	Distance from 28 = 74
+	28 --> 23 --> 32 --> 21
+	Distance from 40 = 134
+	40 --> 35 --> 28 --> 23 --> 32 --> 21
+Node	22
+	Distance from 7 = 30
+	28 --> 22
+	Distance from 14 = 113
+	14 --> 21 --> 32 --> 17 --> 22
+	Distance from 25 = 161
+	25 --> 19 --> 21 --> 32 --> 17 --> 22
+	Distance from 28 = 30
+	28 --> 22
+	Distance from 40 = 90
+	40 --> 35 --> 28 --> 22
+Node	23
+	Distance from 7 = 18
+	28 --> 23
+	Distance from 14 = 72
+	14 --> 21 --> 32 --> 23
+	Distance from 25 = 72
+	25 --> 24 --> 29 --> 23
+	Distance from 28 = 18
+	28 --> 23
+	Distance from 40 = 78
+	40 --> 35 --> 28 --> 23
+Node	24
+	Distance from 7 = 25
+	25 --> 24
+	Distance from 14 = 58
+	14 --> 19 --> 24
+	Distance from 25 = 25
+	25 --> 24
+	Distance from 28 = 57
+	28 --> 29 --> 24
+	Distance from 40 = 80
+	40 --> 35 --> 29 --> 24
+Node	25
+	Distance from 7 = 0
+	25
+	Distance from 14 = 48
+	14 --> 19 --> 25
+	Distance from 25 = 0
+	25
+	Distance from 28 = 171
+	28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 19 --> 25
+	Distance from 40 = 231
+	40 --> 35 --> 28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 19 --> 25
+Node	26
+	Distance from 7 = 30
+	25 --> 26
+	Distance from 14 = 63
+	14 --> 19 --> 26
+	Distance from 25 = 30
+	25 --> 26
+	Distance from 28 = 186
+	28 --> 23 --> 32 --> 8 --> 3 --> 14 --> 19 --> 26
+	Distance from 40 = 145
+	40 --> 46 --> 33 --> 38 --> 26
+Node	27
+	Distance from 7 = 43
+	28 --> 27
+	Distance from 14 = 140
+	14 --> 3 --> 8 --> 7 --> 16 --> 27
+	Distance from 25 = 128
+	25 --> 24 --> 29 --> 35 --> 34 --> 27
+	Distance from 28 = 43
+	28 --> 27
+	Distance from 40 = 93
+	40 --> 41 --> 34 --> 27
+Node	28
+	Distance from 7 = 0
+	28
+	Distance from 14 = 115
+	14 --> 19 --> 24 --> 29 --> 28
+	Distance from 25 = 82
+	25 --> 24 --> 29 --> 28
+	Distance from 28 = 0
+	28
+	Distance from 40 = 60
+	40 --> 35 --> 28
+Node	29
+	Distance from 7 = 40
+	25 --> 24 --> 29
+	Distance from 14 = 73
+	14 --> 19 --> 24 --> 29
+	Distance from 25 = 40
+	25 --> 24 --> 29
+	Distance from 28 = 42
+	28 --> 29
+	Distance from 40 = 65
+	40 --> 35 --> 29
+Node	30
+	Distance from 7 = 30
+	25 --> 30
+	Distance from 14 = 78
+	14 --> 19 --> 25 --> 30
+	Distance from 25 = 30
+	25 --> 30
+	Distance from 28 = 77
+	28 --> 29 --> 30
+	Distance from 40 = 63
+	40 --> 36 --> 30
+Node	31
+	Distance from 7 = 21
+	25 --> 31
+	Distance from 14 = 69
+	14 --> 19 --> 25 --> 31
+	Distance from 25 = 21
+	25 --> 31
+	Distance from 28 = 190
+	28 --> 35 --> 40 --> 46 --> 33 --> 38 --> 31
+	Distance from 40 = 130
+	40 --> 46 --> 33 --> 38 --> 31
+Node	32
+	Distance from 7 = 30
+	7 --> 32
+	Distance from 14 = 42
+	14 --> 21 --> 32
+	Distance from 25 = 81
+	25 --> 19 --> 21 --> 32
+	Distance from 28 = 48
+	28 --> 23 --> 32
+	Distance from 40 = 108
+	40 --> 35 --> 28 --> 23 --> 32
+Node	33
+	Distance from 7 = 58
+	40 --> 46 --> 33
+	Distance from 14 = 133
+	14 --> 19 --> 25 --> 37 --> 33
+	Distance from 25 = 85
+	25 --> 37 --> 33
+	Distance from 28 = 118
+	28 --> 35 --> 40 --> 46 --> 33
+	Distance from 40 = 58
+	40 --> 46 --> 33
+Node	34
+	Distance from 7 = 30
+	28 --> 34
+	Distance from 14 = 136
+	14 --> 19 --> 24 --> 29 --> 35 --> 34
+	Distance from 25 = 103
+	25 --> 24 --> 29 --> 35 --> 34
+	Distance from 28 = 30
+	28 --> 34
+	Distance from 40 = 52
+	40 --> 41 --> 34
+Node	35
+	Distance from 7 = 25
+	28 --> 35
+	Distance from 14 = 103
+	14 --> 19 --> 24 --> 29 --> 35
+	Distance from 25 = 70
+	25 --> 24 --> 29 --> 35
+	Distance from 28 = 25
+	28 --> 35
+	Distance from 40 = 35
+	40 --> 35
+Node	36
+	Distance from 7 = 30
+	40 --> 36
+	Distance from 14 = 110
+	14 --> 19 --> 24 --> 29 --> 36
+	Distance from 25 = 63
+	25 --> 30 --> 36
+	Distance from 28 = 68
+	28 --> 35 --> 36
+	Distance from 40 = 30
+	40 --> 36
+Node	37
+	Distance from 7 = 50
+	25 --> 37
+	Distance from 14 = 98
+	14 --> 19 --> 25 --> 37
+	Distance from 25 = 50
+	25 --> 37
+	Distance from 28 = 107
+	28 --> 35 --> 36 --> 37
+	Distance from 40 = 58
+	40 --> 36 --> 37
+Node	38
+	Distance from 7 = 61
+	25 --> 31 --> 38
+	Distance from 14 = 109
+	14 --> 19 --> 25 --> 31 --> 38
+	Distance from 25 = 61
+	25 --> 31 --> 38
+	Distance from 28 = 150
+	28 --> 35 --> 40 --> 46 --> 33 --> 38
+	Distance from 40 = 90
+	40 --> 46 --> 33 --> 38
+Node	39
+	Distance from 7 = 40
+	40 --> 39
+	Distance from 14 = 128
+	14 --> 19 --> 25 --> 37 --> 39
+	Distance from 25 = 80
+	25 --> 37 --> 39
+	Distance from 28 = 100
+	28 --> 35 --> 40 --> 39
+	Distance from 40 = 40
+	40 --> 39
+Node	40
+	Distance from 7 = 0
+	40
+	Distance from 14 = 138
+	14 --> 19 --> 24 --> 29 --> 35 --> 40
+	Distance from 25 = 93
+	25 --> 30 --> 36 --> 40
+	Distance from 28 = 60
+	28 --> 35 --> 40
+	Distance from 40 = 0
+	40
+Node	41
+	Distance from 7 = 27
+	40 --> 41
+	Distance from 14 = 133
+	14 --> 19 --> 24 --> 29 --> 35 --> 41
+	Distance from 25 = 100
+	25 --> 24 --> 29 --> 35 --> 41
+	Distance from 28 = 55
+	28 --> 35 --> 41
+	Distance from 40 = 27
+	40 --> 41
+Node	42
+	Distance from 7 = 50
+	28 --> 34 --> 42
+	Distance from 14 = 156
+	14 --> 19 --> 24 --> 29 --> 35 --> 34 --> 42
+	Distance from 25 = 123
+	25 --> 24 --> 29 --> 35 --> 34 --> 42
+	Distance from 28 = 50
+	28 --> 34 --> 42
+	Distance from 40 = 75
+	40 --> 41 --> 43 --> 42
+Node	43
+	Distance from 7 = 41
+	40 --> 41 --> 43
+	Distance from 14 = 147
+	14 --> 19 --> 24 --> 29 --> 35 --> 41 --> 43
+	Distance from 25 = 114
+	25 --> 24 --> 29 --> 35 --> 41 --> 43
+	Distance from 28 = 67
+	28 --> 34 --> 43
+	Distance from 40 = 41
+	40 --> 41 --> 43
+Node	44
+	Distance from 7 = 74
+	28 --> 34 --> 42 --> 44
+	Distance from 14 = 180
+	14 --> 19 --> 24 --> 29 --> 35 --> 34 --> 42 --> 44
+	Distance from 25 = 147
+	25 --> 24 --> 29 --> 35 --> 34 --> 42 --> 44
+	Distance from 28 = 74
+	28 --> 34 --> 42 --> 44
+	Distance from 40 = 100
+	40 --> 41 --> 43 --> 47 --> 44
+Node	45
+	Distance from 7 = 20
+	40 --> 45
+	Distance from 14 = 156
+	14 --> 19 --> 24 --> 29 --> 35 --> 41 --> 45
+	Distance from 25 = 113
+	25 --> 30 --> 36 --> 40 --> 45
+	Distance from 28 = 78
+	28 --> 35 --> 41 --> 45
+	Distance from 40 = 20
+	40 --> 45
+Node	46
+	Distance from 7 = 28
+	40 --> 46
+	Distance from 14 = 148
+	14 --> 19 --> 25 --> 37 --> 39 --> 46
+	Distance from 25 = 108
+	25 --> 37 --> 39 --> 46
+	Distance from 28 = 88
+	28 --> 35 --> 40 --> 46
+	Distance from 40 = 28
+	40 --> 46
+Node	47
+	Distance from 7 = 56
+	40 --> 41 --> 43 --> 47
+	Distance from 14 = 162
+	14 --> 19 --> 24 --> 29 --> 35 --> 41 --> 43 --> 47
+	Distance from 25 = 129
+	25 --> 24 --> 29 --> 35 --> 41 --> 43 --> 47
+	Distance from 28 = 82
+	28 --> 34 --> 43 --> 47
+	Distance from 40 = 56
+	40 --> 41 --> 43 --> 47
+Node	48
+	Distance from 7 = 43
+	40 --> 46 --> 48
+	Distance from 14 = 163
+	14 --> 19 --> 25 --> 37 --> 39 --> 46 --> 48
+	Distance from 25 = 123
+	25 --> 37 --> 39 --> 46 --> 48
+	Distance from 28 = 103
+	28 --> 35 --> 40 --> 46 --> 48
+	Distance from 40 = 43
+	40 --> 46 --> 48
+Node	49
+	Distance from 7 = 63
+	40 --> 46 --> 49
+	Distance from 14 = 153
+	14 --> 19 --> 25 --> 37 --> 33 --> 49
+	Distance from 25 = 106
+	25 --> 31 --> 38 --> 49
+	Distance from 28 = 123
+	28 --> 35 --> 40 --> 46 --> 49
+	Distance from 40 = 63
+	40 --> 46 --> 49
+Min cost field station is 40 with cost 1297
